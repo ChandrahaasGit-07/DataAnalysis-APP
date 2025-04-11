@@ -8,7 +8,7 @@ import seaborn as sns
 st.set_page_config(page_title="Data Analysis App")
 
 # add title
-st.title('Data Analysis : red[**Applicatiom**]:laughing')
+st.title('Data Analysis : red[Application]:laughing')
 st.subheader('This is my simple data analysis application created by Chandrahaas...')
 
 # creating a dropdown list to choose the dataset
