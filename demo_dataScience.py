@@ -4,8 +4,11 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+# Naming the Project Tab
+st.set_page_config(page_title="Data Analysis App")
+
 # add title
-st.title('Data Analysis Applicatiom')
+st.title('Data Analysis red[**Applicatiom**]:laughing')
 st.subheader('This is my simple data analysis application created by Chandrahaas...')
 
 # creating a dropdown list to choose the dataset
