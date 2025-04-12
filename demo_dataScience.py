@@ -9,7 +9,7 @@ st.set_page_config(page_title="Data Analysis App")
 
 # add title
 st.title('Data Analysis :red[Application] :laughing:')
-st.subheader('This is my simple data analysis application created by Chandrahaas...')
+st.subheader('This is a simple data analysis application created by Chandrahaas...')
 
 # creating a dropdown list to choose the dataset
 datasets_column = ['iris','titanic','tips','diamonds']
